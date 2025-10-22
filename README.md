@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi, I'm Vaibhav — a final year B.Tech student, aspiring Data Scientist & Machine Learning Engineer.
 
-<!--
-**Vaibhav0460/Vaibhav0460** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Skills:**  
+Python | DSA | C/C++ | SQL | Data Analysis | Django | HTML/CSS/JS
 
-Here are some ideas to get you started:
+🚀 **Favorite Projects:**  
+- Vendor Performance Analytics  
+- E-Commerce Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 **Achievements:**  
+- ICPC Regionalist  
+- Specialist on Codeforces  
+- Knight on Leetcode  
+- 4★ on Codechef  
+- Coding Club Lead
+
+🌱 **Interests:**  
+Technology & Finance
+
+📫 **Connect with me:**  
+- [Personal Website](https://vaibhav0460.github.io/)  
+- [LinkedIn](https://www.linkedin.com/in/vaibhav0460/)  
+- [Twitter/X](https://x.com/Vaibhav0460)
+
+Let’s collaborate on data-driven, impactful projects!
