@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Vaibhav Mishra
+# Hey there! 👋 I'm Vaibhav
 
 <div align="center">
   
