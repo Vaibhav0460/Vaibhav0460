@@ -141,7 +141,7 @@ Built a comprehensive analytics solution covering ETL, business data analysis, a
 A responsive platform with product browsing, purchase tracking, invoice generation, payment integration, and dual customer/admin roles.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-green?style=for-the-badge&logo=django)](https://vaibhav0460.pythonanywhere.com/)
-[![View Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/Vaibhav0460/E-Commerce-Website)
+[![View Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/Vaibhav0460/ClickCart)
 
 </div>
 
