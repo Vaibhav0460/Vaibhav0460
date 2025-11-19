@@ -117,17 +117,17 @@ vaibhav = {
 
 <div align="center">
 
-### 📊 Vendor Performance Data Analytics
-**Full-cycle vendor performance analytics solution with ETL, analysis, and dashboarding**
+### LokVidhi - Indian Law, Simplified 🇮🇳⚖️
+**Comprehensive legal literacy platform designed to make Indian law accessible to everyone.**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-Built a comprehensive analytics solution covering ETL, business data analysis, and reporting for actionable decision-making using SQL, Python, and Power BI.
+Interactive scenarios, AI guidance, and smart tools to make Indian law simple, accessible, and actionable.
 
-[![View Project](https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github)](https://github.com/Vaibhav0460/Vendor-Performance-Data-Analytics)
+[![View Project](https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github)](https://github.com/Vaibhav0460/LokVidhi)
 
 ---
 
@@ -142,6 +142,20 @@ A responsive platform with product browsing, purchase tracking, invoice generati
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-green?style=for-the-badge&logo=django)](https://vaibhav0460.pythonanywhere.com/)
 [![View Code](https://img.shields.io/badge/View_Code-black?style=for-the-badge&logo=github)](https://github.com/Vaibhav0460/ClickCart)
+
+---
+
+### 📊 Vendor Performance Data Analytics
+**Full-cycle vendor performance analytics solution with ETL, analysis, and dashboarding**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+Built a comprehensive analytics solution covering ETL, business data analysis, and reporting for actionable decision-making using SQL, Python, and Power BI.
+
+[![View Project](https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github)](https://github.com/Vaibhav0460/Vendor-Performance-Data-Analytics)
 
 </div>
 
